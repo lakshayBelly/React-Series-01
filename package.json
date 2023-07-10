@@ -1,0 +1,25 @@
+{
+  "name": "coding-in-react",
+  "version": "1.0.0",
+  "description": "this is coding in react course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshayBelly/React-Series-01.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshayBelly/React-Series-01/issues"
+  },
+  "homepage": "https://github.com/lakshayBelly/React-Series-01#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
