@@ -2,9 +2,11 @@
   "name": "coding-in-react",
   "version": "1.0.0",
   "description": "this is coding in react course",
-  "main": "App.js",
+  "source": "index.html",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "npx parcel",
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
